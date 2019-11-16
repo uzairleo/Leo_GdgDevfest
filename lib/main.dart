@@ -35,6 +35,7 @@ WidgetsFlutterBinding.ensureInitialized();
   //* To check the app is running in debug and set some variables for that
   Devfest.checkDebug();
 
+
   //* Time travel debugging to check app states
   BlocSupervisor.delegate = SimpleBlocDelegate();
 
@@ -43,4 +44,6 @@ WidgetsFlutterBinding.ensureInitialized();
   Injector.configure(Flavor.MOCK, DataMode.JSON);
 
   runApp(ConfigPage());
+  
+
 }

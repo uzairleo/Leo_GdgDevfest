@@ -1,28 +1,28 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-      "speaker_name": "Pawan Kumar",
+      "speaker_image": "https://scontent.flhe5-1.fna.fbcdn.net/v/t1.0-9/s960x960/70962184_798630630553361_7279868622103642112_o.jpg?_nc_cat=109&_nc_oc=AQnJYKJpjYfMBQpkwduOMb5a2LXJg5UeKdPYSNAaT4KoQeqbAannqI7DUI3eT4cTrU8&_nc_ht=scontent.flhe5-1.fna&oh=92dfd77acdf0d24febb782714461333c&oe=5E4BBCA4",
+      "speaker_name": "Uzair Leo",
       "speaker_desc": "Google Developer Expert, Flutter",
       "speaker_session": "Talk: Getting Started With Flutter For Web",
+      "fb_url": "https://facebook.com/uzairleo.336",
+      "github_url": "https://github.com/uzairleo",
+      "linkedin_url": "https://linkedin.com/in/uzairleo",
+      "twitter_url": "https://twitter.com/uzairleo"
+    },
+    {
+      "speaker_image": "https://scontent.flhe5-1.fna.fbcdn.net/v/t1.0-9/p720x720/71856286_2375509812664875_5609770120902606848_o.jpg?_nc_cat=103&_nc_oc=AQlq6Gd4j1Y_qmRhtziE4HdNdyCG2e1peVJ_WXjJ6LqBlGgoKC4HznpjFDYtRDHxijM&_nc_ht=scontent.flhe5-1.fna&oh=abe90c6417c8a392661013ae98ed1fae&oe=5E4A01F4",
+      "speaker_name": "Amjad Khan ",
+      "speaker_desc": "SEO optimizer & Tech Enthusiast",
+      "speaker_session": "How I Became a SEO optimizer with Amazon and Adsense",
       "fb_url": "https://facebook.com/imthepk",
       "github_url": "https://github.com/iampawan",
       "linkedin_url": "https://linkedin.com/in/imthepk",
       "twitter_url": "https://twitter.com/imthepk"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
-      "speaker_name": "Laura Morinigo",
-      "speaker_desc": "Software Developer, DMod Labs",
-      "speaker_session": "How I Became a Mobile Developer with Firebase and Flutter",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJET043VnFRT2R1UHdyS1lFUElwLVNaYlVVbnc1enJuNTNGbUtQQjR0SF9STVUzMVptdkgzclRpRjhTUDc2WUNvNldKNFVacFhiXzF4bUoxTVc0RzlfXzF3d2tPUXl4NTNSNjBNSzRoaXB1VVBxOTRFLk0yOHMwWm1NeURjaWxQZ1k",
-      "speaker_name": "Jimenez Raul",
+      "speaker_image": "https://scontent.flhe5-1.fna.fbcdn.net/v/t1.0-9/p960x960/73370721_2396946187187904_7743628083940294656_o.jpg?_nc_cat=107&_nc_oc=AQljY6NMLs4LJl8A3tzwNcXJWAUNQiqQ3q09cbazCppVoIQv2Vv0kyRk0fCwoZhHewY&_nc_ht=scontent.flhe5-1.fna&oh=ce604412917cf88a1a94fa7bcd0280df&oe=5E4F047D",
+      "speaker_name": "Anas Khan",
       "speaker_desc": "Software Engineer, Byte Default",
       "speaker_session": "Angular Elements",
       "fb_url": "https://facebook.com/imthepk",

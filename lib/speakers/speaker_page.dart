@@ -85,6 +85,7 @@ class SpeakerPage extends StatelessWidget {
                     ),
                     SizedBox(
                       width: 20,
+                    
                     ),
                     Expanded(
                       child: Column(

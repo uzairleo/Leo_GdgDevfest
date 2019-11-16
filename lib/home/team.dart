@@ -76,8 +76,8 @@ class Team {
 
 List<Team> teams = [
   Team(
-    name: "Sundar Pichai",
-    desc: "Organizer",
+    name: "UzairLEo",
+    desc: "Organizer and uzairleo",
     contribution: "Google CEO",
     image:
         "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",

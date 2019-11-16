@@ -81,13 +81,13 @@ class Speaker {
 List<Speaker> speakers = [
   Speaker(
     speakerImage:
-        "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-    speakerName: "Pawan Kumar",
+    "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
+    speakerName: "Uzair LeO",
     speakerDesc: "Google Developer Expert, Flutter",
     speakerSession: "Talk: Getting Started With Flutter For Web",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
+    fbUrl: "https://facebook.com/uzairleo.336",
+    githubUrl: "https://github.com/uzairleo",
+    linkedinUrl: "https://linkedin.com/in/uzairleo",
     twitterUrl: "https://twitter.com/imthepk",
   ),
   Speaker(
